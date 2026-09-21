@@ -50,13 +50,9 @@ Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template
 
 An iOS project developed in Objective-C that was previously published on the App Store.
 
-用 Objective-C 寫的，曾經在 App Store 上架的 iOS 專案。
-
 ## [Event Holder](https://github.com/williamliu197/event-holder)
 
 Technologies used: OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, and RabbitMQ 3.
-
-用到的技術有：OpenJDK 17, Spring Boot 3, Maven 3, Mybatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, RabbitMQ 3
 
 ### AI Resume Assistant
 
