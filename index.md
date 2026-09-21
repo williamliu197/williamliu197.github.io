@@ -79,4 +79,3 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/william-liu-01158328a/)
-- GitHub
