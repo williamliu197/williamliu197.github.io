@@ -16,6 +16,38 @@ My goal is not simply to become an engineer who can write code, but someone who 
 
 Therefore, I hope to gain hands-on experience building systems from 0 to 1 through real-world projects. By combining the system design capabilities of a Solution Architect with the implementation skills of an AI Engineer, I aim to become an engineer who can understand business needs, design solid architectures, and actually build and operate systems in production.
 
+我對軟體工程的理解，不只是把功能開發出來，而是從實際業務需求出發，思考系統如何設計、實作、部署與長期維運。因此，我希望逐步往 Solution Architect 與實作型 AI Engineer 的方向發展，建立從需求分析到系統落地的完整能力。
+
+面對系統需求時，我會先確認「要解決什麼問題」以及「什麼結果才算成功」，再分析使用者、使用情境、流量與需求，拆解功能與模組，最後進行資料架構、系統架構與技術選型。
+
+我認為 Solution Architect 的核心價值，是將業務需求轉換成可落地的技術方案。設計系統時，除了思考 API、Database、Queue、Cache、AI Service 等元件如何協作，也需要考量 Performance、Availability、Scalability、Reliability、Maintainability，以及成本與未來擴展性。
+
+在部署方面，我理解 Docker 是將應用程式與執行環境標準化，而 Kubernetes 則進一步負責大規模 Container 的部署、資源管理、自我修復與水平擴展。
+
+我希望未來不只是成為能完成程式碼的工程師，而是能理解「為什麼這樣設計」，並真正將架構落實成可運作、可維護的系統。尤其在 AI 應用快速發展的環境下，我認為 AI Engineer 也需要具備軟體工程與架構能力，除了 LLM API，更要處理資料、知識庫、權限、隔離、可靠性、成本與維運。
+
+因此，我希望透過實際專案累積從 0 到 1 建置系統的經驗，結合 Solution Architect 的系統設計能力與 AI Engineer 的實作能力，成為一名能理解業務、設計架構，也能真正把系統做出來並持續運行的工程師。
+
+## Skills
+
+Software Architecture: Microservices, DDD & Clean/Hexagonal(Ports & Adapters), Event-Driven, SOA, Layered(MVC & N-Tier), Monolith, Pipe and Filter, SaaS Multi-Tenant
+
+Programming Languages: Java, Python, JavaScript, C/C++, PHP, Swift, Objective-C, C#, Shell Script
+
+Backend Technologies : Spring Cloud, Spring Boot, Spring MVC, Spring Security(OAuth2/JWT), Spring Batch, JPA(Hibernate), MyBatis, Node.js, RESTful API
+
+Frontend Technologies: HTML, CSS, JSP, Struts, Tiles, JSF, Thymeleaf, jQuery, AJAX, Bootstrap, Vue.js, Angular
+
+Database Technologies: PostgreSQL, MySQL, Oracle, DB2, SQL Server, SQLite, Redis, MongoDB, SQL, Stored Procedure
+
+Messaging & Streaming: RabbitMQ, Kafka
+
+DevOps & Cloud: Docker, K8s, Maven, Gradle, Git, Jenkins, GitLab CI/CD, Prometheus, Grafana, AWS EC2/S3, GCP/GKE
+
+Testing: JUnit, Mockito, Selenium/Playwright
+
+Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template Method
+
 ## Projects
 
 ### AI Resume Assistant
