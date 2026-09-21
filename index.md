@@ -1,7 +1,3 @@
-# William Liu
-
-Solution Architect | Generative AI | Microservices | Docker | Kubernetes
-
 ## About Me
 
 My understanding of software engineering goes beyond simply developing features. I believe it starts with real business needs and involves thinking about how a system should be designed, implemented, deployed, and maintained over the long term. Therefore, I hope to gradually develop toward becoming a Solution Architect and an implementation-oriented AI Engineer, building end-to-end capabilities from requirements analysis to system delivery.
