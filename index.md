@@ -50,9 +50,18 @@ Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template
 
 An iOS project developed in Objective-C that was previously published on the App Store.
 
+![screenshot](./images/IMG_1035.jpeg)
+![screenshot](./images/IMG_1036.jpeg)
+![screenshot](./images/IMG_1037.jpeg)
+![screenshot](./images/IMG_1038.jpeg)
+![screenshot](./images/IMG_1039.jpeg)
+
 ## [Event Holder](https://github.com/williamliu197/event-holder)
 
 A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, and RabbitMQ 3.
+
+![screenshot](./images/IMG_1033.jpeg)
+![screenshot](./images/IMG_1034.jpeg)
 
 ### AI Resume Assistant
 
