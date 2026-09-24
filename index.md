@@ -6,7 +6,7 @@ When facing a system requirement, I first ask, “What problem are we trying to 
 
 I believe the core value of a Solution Architect is the ability to translate business requirements into practical and implementable technical solutions. When designing a system, I consider how components such as APIs, databases, queues, caches, and AI services should work together, while also taking into account performance, availability, scalability, reliability, maintainability, cost, and future growth.
 
-For deployment, I understand that Docker focuses on standardizing applications and their runtime environments, while Kubernetes manages containerized applications at scale, including deployment, resource allocation, self-healing, and horizontal scaling.
+In terms of deployment, my understanding is that Docker packages and standardizes an application along with its runtime environment, ensuring that the application can run consistently across different environments. Kubernetes takes this a step further by managing the deployment of containers at scale, including resource management, self-healing, service discovery, and horizontal scaling. At a higher level, these technologies are also important components of Cloud-Native Architecture. Cloud-native emphasizes designing systems using approaches such as microservices, containers, Kubernetes, DevOps, CI/CD, and automation. The goal is to build applications with high scalability, resilience, and maintainability while making more effective use of the resources and capabilities provided by cloud environments.
 
 My goal is not simply to become an engineer who can write code, but someone who understands why a system is designed in a certain way and can turn that architecture into a reliable and maintainable system. As AI applications continue to evolve, I believe AI Engineers also need strong software engineering and architectural skills. Building a practical AI system involves much more than integrating an LLM API—it also requires handling data, knowledge bases, access control, data isolation, reliability, cost, and operations.
 
@@ -18,7 +18,7 @@ Therefore, I hope to gain hands-on experience building systems from 0 to 1 throu
 
 我認為 Solution Architect 的核心價值，是將業務需求轉換成可落地的技術方案。設計系統時，除了思考 API、Database、Queue、Cache、AI Service 等元件如何協作，也需要考量 Performance、Availability、Scalability、Reliability、Maintainability，以及成本與未來擴展性。
 
-在部署方面，我理解 Docker 是將應用程式與執行環境標準化，而 Kubernetes 則進一步負責大規模 Container 的部署、資源管理、自我修復與水平擴展。
+在部署方面，我理解 Docker 是將應用程式與執行環境封裝並標準化，確保應用程式能夠在不同環境中一致地執行；Kubernetes 則進一步負責大規模 Container 的部署、資源管理、自我修復、服務發現與水平擴展。而從更高層次來看，這些技術也是 Cloud-Native Architecture 的重要組成部分。Cloud-Native 強調以微服務、Container、Kubernetes、DevOps、CI/CD 以及自動化等方式來設計系統，使應用程式能夠具備高度可擴展性、彈性與可維運性，並能更充分地利用雲端環境的資源與特性。
 
 我希望未來不只是成為能完成程式碼的工程師，而是能理解「為什麼這樣設計」，並真正將架構落實成可運作、可維護的系統。尤其在 AI 應用快速發展的環境下，我認為 AI Engineer 也需要具備軟體工程與架構能力，除了 LLM API，更要處理資料、知識庫、權限、隔離、可靠性、成本與維運。
 
