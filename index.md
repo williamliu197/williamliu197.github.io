@@ -81,7 +81,7 @@ Developed a side project centered around a RAG knowledge base and AI Agent, taki
 
 Delivered a practical AI knowledge Q&A and automation workflow, enabling users to retrieve information and obtain analytical results through natural language.
 
-自行實作一個以 RAG 知識庫與 AI Agent 為核心的side project，主要負責資料處理、知識庫建置及 AI Workflow 串接。
+自行實作一個以 RAG 知識庫與 AI Agent 為核心的 side project，主要負責資料處理、知識庫建置及 AI Workflow 串接。
 
 * 整理與清洗原始資料，設計 Chunk、Metadata 與 Embedding 流程。
 
