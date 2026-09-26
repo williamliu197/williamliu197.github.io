@@ -64,7 +64,7 @@ A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymelea
 ![screenshot](./images/IMG_1033.jpeg)
 ![screenshot](./images/IMG_1034.jpeg)
 
-### AI Resume Assistant
+### [Local AI Retrieval Agent](https://github.com/williamliu197/LARA)
 
 Developed a side project centered around a RAG knowledge base and AI Agent, taking primary responsibility for data processing, knowledge base development, and AI workflow integration.
 
