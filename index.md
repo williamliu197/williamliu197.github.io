@@ -50,20 +50,6 @@ Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template
 
 # Projects
 
-## [Plain To-Do List](https://github.com/williamliu197/ToDoList)
-
-An iOS project developed in Objective-C that was previously published on the App Store.
-
-![screenshot](./images/ToDoList001.jpeg)
-![screenshot](./images/ToDoList002.jpeg)
-
-## [Event Holder](https://github.com/williamliu197/event-holder)
-
-A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, and RabbitMQ 3.
-
-![screenshot](./images/IMG_1033.jpeg)
-![screenshot](./images/IMG_1034.jpeg)
-
 ## [Local AI Retrieval Agent](https://github.com/williamliu197/LARA)
 
 Developed a side project centered around a RAG knowledge base and AI Agent, taking primary responsibility for data processing, knowledge base development, and AI workflow integration.
@@ -95,3 +81,17 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 # Contact
 
 - [LinkedIn](https://www.linkedin.com/in/william-liu-01158328a/)
+
+## [Event Holder](https://github.com/williamliu197/event-holder)
+
+A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, and RabbitMQ 3.
+
+![screenshot](./images/IMG_1033.jpeg)
+![screenshot](./images/IMG_1034.jpeg)
+
+## [Plain To-Do List](https://github.com/williamliu197/ToDoList)
+
+An iOS project developed in Objective-C that was previously published on the App Store.
+
+![screenshot](./images/ToDoList001.jpeg)
+![screenshot](./images/ToDoList002.jpeg)
