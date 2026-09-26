@@ -55,7 +55,7 @@ Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template
 An iOS project developed in Objective-C that was previously published on the App Store.
 
 ![screenshot](./images/ToDoList001.jpeg)
-![screenshot](./images/ToDoList001.jpeg)
+![screenshot](./images/ToDoList002.jpeg)
 
 ## [Event Holder](https://github.com/williamliu197/event-holder)
 
