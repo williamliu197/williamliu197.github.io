@@ -66,8 +66,6 @@ A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymelea
 
 ### [Local AI Retrieval Agent](https://github.com/williamliu197/LARA)
 
-![screenshot](./images/LARA_screenshot.png)
-
 Developed a side project centered around a RAG knowledge base and AI Agent, taking primary responsibility for data processing, knowledge base development, and AI workflow integration.
 
 * Cleaned and processed raw data, and designed the Chunking, Metadata, and Embedding pipelines.
@@ -91,6 +89,8 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 * 遇到回答不準時，會從資料品質、Chunk、Retrieval、Prompt 到模型輸出逐層排查，而不是單純修改 Prompt。
 
 最後完成可實際使用的 AI 知識問答與自動化流程，讓使用者能透過自然語言取得資料與分析結果。
+
+![screenshot](./images/LARA_screenshot.png)
 
 ## Contact
 
