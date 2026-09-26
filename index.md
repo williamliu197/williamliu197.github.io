@@ -1,4 +1,4 @@
-## About
+# About
 
 My understanding of software engineering goes beyond simply developing features. I believe it starts with real business needs and involves thinking about how a system should be designed, implemented, deployed, and maintained over the long term. Therefore, I hope to gradually develop toward becoming a Solutions Architect and an implementation-oriented AI Engineer, building end-to-end capabilities from requirements analysis to system delivery.
 
@@ -28,7 +28,7 @@ Therefore, I hope to gain hands-on experience building systems from 0 to 1 throu
 
 因此，我希望透過實際專案累積從 0 到 1 建置系統的經驗，結合 Solutions Architect 的系統設計能力與 AI Engineer 的實作能力，成為一名能理解業務、設計架構，也能真正把系統做出來並持續運行的工程師。
 
-## Skills
+# Skills
 
 Software Architecture: Microservices, DDD & Clean/Hexagonal(Ports & Adapters), Event-Driven, SOA, Layered(MVC & N-Tier), Monolith, Pipe and Filter, SaaS Multi-Tenant
 
@@ -48,7 +48,7 @@ Testing: JUnit, Mockito, Selenium/Playwright
 
 Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template Method
 
-## Projects
+# Projects
 
 ## [Plain To-Do List](https://github.com/williamliu197/ToDoList)
 
@@ -64,7 +64,7 @@ A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymelea
 ![screenshot](./images/IMG_1033.jpeg)
 ![screenshot](./images/IMG_1034.jpeg)
 
-### [Local AI Retrieval Agent](https://github.com/williamliu197/LARA)
+## [Local AI Retrieval Agent](https://github.com/williamliu197/LARA)
 
 Developed a side project centered around a RAG knowledge base and AI Agent, taking primary responsibility for data processing, knowledge base development, and AI workflow integration.
 
@@ -92,6 +92,6 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 
 ![screenshot](./images/LARA_screenshot.png)
 
-## Contact
+# Contact
 
 - [LinkedIn](https://www.linkedin.com/in/william-liu-01158328a/)
