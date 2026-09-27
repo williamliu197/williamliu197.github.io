@@ -78,7 +78,7 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 
 ![screenshot](./images/LARA_screenshot.png)
 
-## [Backend Platform](https://github.com/williamliu197/backend-platform)
+## [Spring Cloud Backend](https://github.com/williamliu197/spring-cloud-backend)
 
 A POC project built with Spring Cloud.
 
