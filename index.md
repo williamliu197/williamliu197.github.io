@@ -88,8 +88,8 @@ A backend-only microservices project built with Spring Cloud.
 
 A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, and RabbitMQ 3.
 
-![screenshot](./images/IMG_1033.jpeg)
-![screenshot](./images/IMG_1034.jpeg)
+![screenshot](./images/event-holder-001.png)
+![screenshot](./images/event-holder-002.png)
 
 ## [Plain To-Do List](https://github.com/williamliu197/ToDoList)
 
