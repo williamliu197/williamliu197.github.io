@@ -78,6 +78,12 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 
 ![screenshot](./images/LARA_screenshot.png)
 
+## [Backend Platform](https://github.com/williamliu197/backend-platform)
+
+A POC project built with Spring Cloud.
+
+![screenshot](./images/Soft-Arch-Microservices.png)
+
 ## [Event Holder](https://github.com/williamliu197/event-holder)
 
 A web project built with OpenJDK 17, Spring Boot 3, Maven 3, MyBatis 3, Thymeleaf 3, jQuery 3.6, Bootstrap 5, DataTables, and RabbitMQ 3.
