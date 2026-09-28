@@ -76,7 +76,8 @@ Delivered a practical AI knowledge Q&A and automation workflow, enabling users t
 
 最後完成可實際使用的 AI 知識問答與自動化流程，讓使用者能透過自然語言取得資料與分析結果。
 
-![screenshot](./images/LARA_screenshot.png)
+![screenshot](./images/LARA_screenshot_001.png)
+![screenshot](./images/LARA_screenshot_002.png)
 
 ## [Spring Cloud Backend](https://github.com/williamliu197/spring-cloud-backend)
 
