@@ -64,7 +64,7 @@ Developed a side project centered around a RAG knowledge base and AI Agent, taki
 
 Delivered a practical AI knowledge Q&A and automation workflow, enabling users to retrieve information and obtain analytical results through natural language.
 
-The overall architecture is a local RAG + Agent system, running entirely on a self-hosted machine, with Ollama providing both the embedding model and LLM.
+The overall architecture is a "local RAG + Agent" system, running entirely on a self-hosted machine, with Ollama providing both the embedding model and LLM.
 
 自行實作一個以 RAG 知識庫與 AI Agent 為核心的 side project，主要負責資料處理、知識庫建置及 AI Workflow 串接。
 
