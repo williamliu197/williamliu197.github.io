@@ -78,7 +78,7 @@ The overall architecture is 'Local RAG + Agent', running entirely on your own ma
 
 最後完成可實際使用的 AI 知識問答與自動化流程，讓使用者能透過自然語言取得資料與分析結果。
 
-整體架構是「本地端 RAG + Agent」，全部跑在你自己的機器上，用 Ollama 提供 Embedding 與 LLM。
+整體架構是「本地端 RAG + Agent」，全部跑在自己的機器上，用 Ollama 提供 Embedding 與 LLM。
 
 ![screenshot](./images/LARA_screenshot_001.png)
 ![screenshot](./images/LARA_screenshot_002.png)
