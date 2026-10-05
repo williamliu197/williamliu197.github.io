@@ -42,7 +42,7 @@ Database Technologies: PostgreSQL, MySQL, Oracle, DB2, SQL Server, SQLite, Redis
 
 Messaging & Streaming: RabbitMQ, Kafka
 
-DevOps & Cloud: Linux, Docker, Kubernetes, Maven, Gradle, Git, Jenkins, GitLab CI/CD, Prometheus, Grafana, AWS EC2/S3, GCP/GKE
+DevOps & Cloud: Linux(RHEL), Docker, Kubernetes, Maven, Gradle, Git, Jenkins, GitLab CI/CD, Prometheus, Grafana, AWS EC2/S3, GCP/GKE
 
 Testing: JUnit, Mockito, Selenium/Playwright
 
