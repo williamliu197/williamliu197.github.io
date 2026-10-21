@@ -14,6 +14,8 @@ My goal is not simply to become an engineer who can write code, but someone who 
 
 Therefore, I hope to gain hands-on experience building systems from 0 to 1 through real-world projects. By combining the system design capabilities of a Solutions Architect with the implementation skills of an AI Engineer, I aim to become an engineer who can understand business needs, design solid architectures, and actually build and operate systems in production.
 
+Currently preparing for the AWS Certified Solutions Architect – Associate certification to strengthen my knowledge of AWS cloud architecture, including compute, storage, networking, security, high availability, scalability, fault tolerance, and cost optimization.
+
 我對軟體工程的理解，不只是把功能開發出來，而是從實際業務需求出發，思考系統如何設計、實作、部署與長期維運。因此，我希望逐步往 Solutions Architect 與實作型 AI Engineer 的方向發展，建立從需求分析到系統落地的完整能力。
 
 面對系統需求時，我會先確認「要解決什麼問題」以及「什麼結果才算成功」，再分析使用者、使用情境、流量與需求，拆解功能與模組，最後進行資料架構、系統架構與技術選型。
@@ -27,6 +29,8 @@ Therefore, I hope to gain hands-on experience building systems from 0 to 1 throu
 我希望未來不只是成為能完成程式碼的工程師，而是能理解「為什麼這樣設計」，並真正將架構落實成可運作、可維護的系統。尤其在 AI 應用快速發展的環境下，我認為 AI Engineer 也需要具備軟體工程與架構能力，除了 LLM API，更要處理資料、知識庫、權限、隔離、可靠性、成本與維運。
 
 因此，我希望透過實際專案累積從 0 到 1 建置系統的經驗，結合 Solutions Architect 的系統設計能力與 AI Engineer 的實作能力，成為一名能理解業務、設計架構，也能真正把系統做出來並持續運行的工程師。
+
+目前正準備 AWS Certified Solutions Architect – Associate 認證，持續深化 AWS 雲端架構相關知識，包含運算、儲存、網路、安全性、高可用性、可擴展性、容錯設計與成本最佳化。
 
 # Skills
 
