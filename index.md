@@ -57,19 +57,31 @@ Design Patterns: Factory, Singleton, Adapter, Decorator, Facade, Proxy, Template
 ## [Local AI Retrieval Agent](https://github.com/williamliu197/LARA)
 
 Developed a side project centered around a RAG knowledge base and AI Agent, taking primary responsibility for data processing, knowledge base development, and AI workflow integration.
+
 * Cleaned and processed raw data, and designed the Chunking, Metadata, and Embedding pipelines.
+
 * Built a RAG system integrating a Vector Database and LLM for information retrieval and question answering.
+
 * Designed AI Agent / Workflow pipelines, integrating APIs and different AI components to automate end-to-end processes.
+
 * When encountering inaccurate responses, systematically debugged the pipeline layer by layer, including data quality, chunking, retrieval, prompting, and model output, rather than simply modifying prompts.
+
 Delivered a practical AI knowledge Q&A and automation workflow, enabling users to retrieve information and obtain analytical results through natural language.
+
 The overall architecture is a "local RAG + Agent" system that runs entirely on the local machine, using the embedding model and LLM provided by Ollama.
 
 自行實作一個以 RAG 知識庫與 AI Agent 為核心的 side project，主要負責資料處理、知識庫建置及 AI Workflow 串接。
+
 * 整理與清洗原始資料，設計 Chunk、Metadata 與 Embedding 流程。
+
 * 建置 RAG，串接 Vector DB 與 LLM，處理資料檢索與回答。
+
 * 設計 Agent / Workflow，串接 API 與不同 AI 節點完成自動化流程。
+
 * 遇到回答不準時，會從資料品質、Chunk、Retrieval、Prompt 到模型輸出逐層排查，而不是單純修改 Prompt。
+
 最後完成可實際使用的 AI 知識問答與自動化流程，讓使用者能透過自然語言取得資料與分析結果。
+
 整體架構是一套「本地端 RAG + Agent」系統，完全運行於本地機器上，使用 Ollama 提供的 Embedding 模型與 LLM。
 
 ![screenshot](./images/LARA_screenshot_001.png)
