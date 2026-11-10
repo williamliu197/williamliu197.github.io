@@ -109,4 +109,4 @@ An iOS project developed in Objective-C that was previously published on the App
 
 # Contact
 
-- [LinkedIn](https://www.linkedin.com/in/william-嘉煒-liu-劉-01158328a)
+- [LinkedIn](https://www.linkedin.com/in/jia-wei-liu-01158328a)
