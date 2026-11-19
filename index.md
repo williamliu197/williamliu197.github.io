@@ -36,7 +36,7 @@ Currently preparing for the AWS Certified Solutions Architect – Associate cert
 
 Software Architecture: Microservices, DDD & Clean/Hexagonal(Ports & Adapters), Event-Driven, SOA, Layered(MVC & N-Tier), Monolith, Pipe and Filter, SaaS Multi-Tenant
 
-Programming Languages: Java, Python, JavaScript, C/C++, PHP, Swift, Objective-C, C#, Shell Script
+Programming Languages: Java, Python, JavaScript, C, PHP, Swift, Objective-C, Shell Script
 
 Backend Technologies : Spring Cloud, Spring Boot, Spring MVC, Spring Security(OAuth2/JWT), Spring Batch, JPA(Hibernate), MyBatis, Node.js, RESTful API
 
